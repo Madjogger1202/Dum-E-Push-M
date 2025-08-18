@@ -5,6 +5,7 @@
 > Secrets (Wi‑Fi, bot token, whitelist) are **not** committed to git — generated at build time
 
 ---
+![alt text](image.png)
 
 ## Table of contents
 
@@ -22,7 +23,7 @@
 - [Security Notes](#security-notes)
 - [Troubleshooting](#troubleshooting)
 - [Use Cases / Extending](#use-cases--extending)
-
+- [3D model download](#3d-model)
 ---
 
 ## Overview
@@ -182,6 +183,12 @@ pio device monitor
 - **Video:** ESP32‑CAM streams MJPEG over HTTP with Basic Auth
 
 ---
+## PCB
+<div align="center">
+  <img src="img/screen1.jpg" alt="Top view" width="440" height="900" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img/screen2.jpg" alt="Bottom view" width="440" height="900" />
+</div>
 
 ## Configuration
 
@@ -314,4 +321,8 @@ Change `WWW_USER`/`WWW_PASS` and guard all relevant routes.
 - Educational robotics/kinematics  
 - Add IK, trajectories, limit switches, current sensing, safety interlocks
 
+---
+
+## 3D Model
+### You can find all components here: https://grabcad.com/library/push-m-dum-e-robot-arm-4-axis-1
 ---
