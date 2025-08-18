@@ -5,7 +5,7 @@
 > Secrets (Wi‑Fi, bot token, whitelist) are **not** committed to git — generated at build time
 
 ---
-![alt text](image.png)
+![alt text](img/image.png)
 
 ## Table of contents
 
