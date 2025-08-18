@@ -183,11 +183,11 @@ pio device monitor
 - **Video:** ESP32‑CAM streams MJPEG over HTTP with Basic Auth
 
 ---
-## PCB
+  
 <div align="center">
-  <img src="img/screen1.jpg" alt="Top view" width="440" height="900" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="img/screen2.jpg" alt="Bottom view" width="440" height="900" />
+  <img src="img/screen1.jpg" alt="Top view" width="400" height="818" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img/screen2.jpg" alt="Bottom view" width="400" height="818" />
 </div>
 
 ## Configuration
